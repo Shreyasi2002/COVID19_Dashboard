@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --template=material --theme=dark --enable_nbextensions=True COVID-19_Dashboard.ipynb
